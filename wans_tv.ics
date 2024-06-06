@@ -1,0 +1,39 @@
+BEGIN:VCALENDAR
+METHOD:PUBLISH
+VERSION:2.0
+X-WR-CALNAME:东篱电视日历
+PRODID:-//Apple Inc.//macOS 11.1//EN
+X-APPLE-CALENDAR-COLOR:#CCEECC
+X-WR-TIMEZONE:Asia/Shanghai
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:MAGUA_2024TV_1
+DTEND;VALUE=DATE:20240607
+TRANSP:OPAQUE
+SUMMARY:《疯狂的麦克斯：狂暴女神》上映
+DTSTAMP:20231221T195455Z
+DTSTART;VALUE=DATE:20240101
+SEQUENCE:0
+DESCRIPTION:影片讲述了复仇女神弗瑞奥萨（安雅·泰勒-乔伊 Anya Taylor-Joy 饰）惊心动魄的成长史。年轻的弗瑞奥萨从原本的家园被掠走，落入军阀狄门特斯（克里斯·海姆斯沃斯 Chris Hemsworth 饰）领导的帮派手中，在穿过荒原时，他们来到不死老乔（拉黑·休姆 Lachy H ulme 饰）所掌管的堡垒。在两位暴君争夺统治地位的同时，弗瑞奥萨必须在重重考验中活下来，并想方设法寻找回家的路；她也逐渐成长为利落酷飒的狂暴女神。
+END:VEVENT
+BEGIN:VEVENT
+UID:MAGUA_2024TV_2
+DTEND;VALUE=DATE:20240608
+TRANSP:OPAQUE
+SUMMARY:电视剧《玫瑰的故事》上线
+DTSTAMP:20231221T195455Z
+DTSTART;VALUE=DATE:20240101
+SEQUENCE:0
+DESCRIPTION:出生于书香世家的黄亦玫（刘亦菲 饰）一路在呵护中长大，从小便展露出艺术天赋。初入职场的黄亦玫很快受到重用，与合作伙伴庄国栋相识相爱，但最终错过彼此，这段职场磨炼也令她对自己的人生有了更清晰的规划，决定重返校园求学深造。毕业后，她和学长方协文步入婚姻殿堂。可婚后两人发展方向相去甚远，最 终选择离婚。黄亦玫开始创业，在艺术品策展领域打拼出一片天地，在此期间还遇到了自己的灵魂伴侣溥家明，可溥家明只剩几个月的生命，两人这段爱情最终以生死离别画上句号。 但黄亦玫没有就此消沉，她还是一如既往地为活出更精彩的自己而努力着。
+END:VEVENT
+BEGIN:VEVENT
+UID:MAGUA_2024TV_3
+DTEND;VALUE=DATE:20240616
+TRANSP:OPAQUE
+SUMMARY:美剧《龙之家族第二季》上线
+DTSTAMP:20231221T195455Z
+DTSTART;VALUE=DATE:20240101
+SEQUENCE:0
+DESCRIPTION:故事背景设定在《权力的游戏》中事件发生的约两百年前，讲述坦格利安家族的兴衰史。
+END:VEVENT
+END:VCALENDAR
