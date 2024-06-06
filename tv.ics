@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+METHOD:PUBLISH
+VERSION:2.0
+X-WR-CALNAME:东篱电视日历
+PRODID:-//Apple Inc.//macOS 11.1//EN
+X-APPLE-CALENDAR-COLOR:#CCEEFF
+X-WR-TIMEZONE:Asia/Shanghai
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+CREATED:20240202T110204Z
+DTEND;VALUE=DATE:20240607
+DTSTAMP:20240607T113552Z
+DTSTART;VALUE=DATE:20240607
+LAST-MODIFIED:20240601T110225Z
+SEQUENCE:1
+SUMMARY: 《疯狂的麦克斯：狂暴女神》上映
+TRANSP:TRANSPARENT
+UID:1C2B3C0D-7A75-40F3-BECB-2B4A7AFB
+DESCRIPTION:影片讲述了复仇女神弗瑞奥萨（安雅·泰勒-乔伊 Anya Taylor-Joy 饰）惊心动魄的成长史。年轻的弗瑞奥萨从原本的家园被掠走，落入军阀狄门特斯（克里斯·海姆斯沃斯 Chris Hemsworth 饰）领导的帮派手中，在穿过荒原时，他们来到不死老乔（拉黑·休姆 Lachy H ulme 饰）所掌管的堡垒。在两位暴君争夺统治地位的同时，弗瑞奥萨必须在重重考验中活下来，并想方设法寻找回家的路；她也逐渐成长为利落酷飒的狂暴女神。
+END:VEVENT
+END:VCALENDAR
