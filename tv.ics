@@ -7,16 +7,6 @@ X-APPLE-CALENDAR-COLOR:#CCEEFF
 X-WR-TIMEZONE:Asia/Shanghai
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-UID:MAGUA_2024SKYCAL_165653553
-DTEND;VALUE=DATE:20240607
-TRANSP:OPAQUE
-SUMMARY:[疯狂的麦克斯：狂暴女神]上映
-DTSTAMP:20231221T195455Z
-DTSTART;VALUE=DATE:20240101
-SEQUENCE:0
-DESCRIPTION:影片讲述了复仇女神弗瑞奥萨（安雅·泰勒-乔伊 Anya Taylor-Joy 饰）惊心动魄的成长史。年轻的弗瑞奥萨从原本的家园被掠走，落入军阀狄门特斯（克里斯·海姆斯沃斯 Chris Hemsworth 饰）领导的帮派手中，在穿过荒原时，他们来到不死老乔（拉黑·休姆 Lachy H ulme 饰）所掌管的堡垒。在两位暴君争夺统治地位的同时，弗瑞奥萨必须在重重考验中活下来，并想方设法寻找回家的路；她也逐渐成长为利落酷飒的狂暴女神。
-END:VEVENT
-BEGIN:VEVENT
 UID:MAGUA_2024TV_223368851656656
 DTEND;VALUE=DATE:20240608
 TRANSP:OPAQUE
